@@ -7,7 +7,7 @@ Open Terminal
 
 - cd Desktop
 - git clone https://github.com/SmoshKali/DoxSearch.git
-- cd DoxingSearch
+- cd DoxSearch
 - bash search.sh
 
 Now you can use DoxSearch
