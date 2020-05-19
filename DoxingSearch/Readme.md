@@ -1,7 +1,7 @@
-DoxSearch
+# DoxSearch
 
 
-How to Install DoxSearch
+## How to Install DoxSearch
 
 Open Terminal
 
