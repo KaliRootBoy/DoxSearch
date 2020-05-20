@@ -1,7 +1,7 @@
 # DoxSearch v1.0
 # Modified By SmoshHaxx Author: ╰☜Cyber Attack☞╯
 
-trap 'printf "\n";partial;exit 1' 2
+trap 'printf "\n";stop' 2
 
 banner() {
 
